@@ -1,0 +1,18 @@
+% program   : RTKPOST ver.2.4.2
+% inp file  : D:\Mestrado\GE\TP3\EstacaoRovr\rovr0760.12o
+% inp file  : D:\Mestrado\GE\TP3\EstacaoRovr\brdc0760.12n
+% inp file  : D:\Mestrado\GE\TP3\EstacaoRovr\COD16795.SP3
+% inp file  : D:\Mestrado\GE\TP3\EstacaoRovr\COD16795.CLK
+% obs start : 2012/03/16 13:23:50.0 GPST (week1679 480230.0s)
+% obs end   : 2012/03/16 13:51:18.0 GPST (week1679 481878.0s)
+% pos mode  : ppp-kinematic
+% solution  : combined
+% elev mask : 10.0 deg
+% dynamics  : off
+% tidecorr  : on
+% tropo opt : est ztd
+% ephemeris : precise
+% antenna1  :                       ( 0.0000  0.0000  0.0000)
+%
+% (lat/lon/height=WGS84/ellipsoidal,Q=1:fix,2:float,3:sbas,4:dgps,5:single,6:ppp,ns=# of satellites)
+%  GPST                  latitude(deg) longitude(deg)  height(m)   Q  ns   sdn(m)   sde(m)   sdu(m)  sdne(m)  sdeu(m)  sdun(m) age(s)  ratio

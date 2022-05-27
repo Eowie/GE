@@ -1,0 +1,26 @@
+  SOFTWARE: page5  2008.25 master257.pl 160321      START: 2022/02/14  00:00:00
+ EPHEMERIS: igs21971.eph [precise]                   STOP: 2022/02/14  23:43:00
+  NAV FILE: brdc0450.22n                         OBS USED: 56141 / 56509   :  99%
+  ANT NAME: AOAD/M_T        NONE              # FIXED AMB:   120 /   171   :  70%
+ARP HEIGHT: 0.054                             OVERALL RMS: 0.014(m)
+
+
+ REF FRAME: NAD_83(2011)(EPOCH:2010.0000)              ITRF2014 (EPOCH:2022.1219)
+
+         X:      5415354.151(m)   0.012(m)           5415352.928(m)   0.012(m)
+         Y:      2917207.576(m)   0.009(m)           2917210.233(m)   0.009(m)
+         Z:     -1685889.703(m)   0.010(m)          -1685888.559(m)   0.010(m)
+
+       LAT:  -15 25 31.97410      0.006(m)       -15 25 31.93666      0.006(m)
+     E LON:   28 18 39.55730      0.005(m)        28 18 39.65519      0.005(m)
+     W LON:  331 41 20.44270      0.005(m)       331 41 20.34481      0.005(m)
+    EL HGT:         1325.036(m)   0.016(m)              1324.908(m)   0.016(m)
+ ORTHO HGT: [No NGS Geoid Model Available.]
+
+                        UTM COORDINATES    STATE PLANE COORDINATES
+                         UTM (Zone 35)         *** NOTE ***
+Northing (Y) [meters]     8294177.471      Please manually select
+Easting (X)  [meters]      640669.023      SPC zone.
+Convergence  [degrees]     0.34876111
+Point Scale                0.99984472
+Combined Factor            0.99963645
